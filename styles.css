@@ -49,6 +49,8 @@ a {
 #socials {
     position: absolute;
     display: flex;
+    width: auto;
+    margin: 0 auto;
     justify-content: center;
     background-color: white;
 }
@@ -65,5 +67,5 @@ a {
 }
 
 .bottom {
-    bottom: 0;
+    bottom: 20px;
 }
