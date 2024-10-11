@@ -10,8 +10,7 @@ body {
     justify-content: center;
     padding: 2px;
     border-bottom: 2px solid white;
-    background-image: black;
-    opacity: 0.2;
+    background-color: black;
 }
 
 a {
@@ -50,6 +49,7 @@ a {
 #socials {
     display: flex;
     justify-content: center;
+    background-color: white;
 }
 
 .socialInvert {
